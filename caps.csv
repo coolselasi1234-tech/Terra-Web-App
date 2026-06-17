@@ -1,0 +1,3 @@
+name,bus,phases,conn,kv_nom,kvar_A,kvar_B,kvar_C
+cap1,675,3,wye,4.16,200.0,200.0,200.0
+cap2,611,1,wye,2.4,0.0,0.0,100.0
